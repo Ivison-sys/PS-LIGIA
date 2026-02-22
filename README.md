@@ -20,7 +20,5 @@ O sistema recebe uma imagem de raio-x e retorna a predição de ser pneomonia, a
 
 *Obs.: Os notebooks também estão disponíveis no repositório na pasta `notebooks`.*
 
-## Pesos
-- O peso do modelo final estar em `models`
 ## 🔗 Referências e Entregáveis
 - 📄 **Relatório e peso:** [Link](https://drive.google.com/file/d/1ECFPDvJJ4MTABwMi-tt6hdX1b_m56ijL/view?usp=drive_link) 
